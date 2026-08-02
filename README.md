@@ -66,13 +66,9 @@
 `Next.js` · `FastAPI` · `PostgreSQL` · `Docker`
 JWT auth, role-based access control, and CRUD workflows across Admin and Employee portals; deployed via Vercel, Render, and Supabase.
 
-**🔹 [Customer Churn Prediction](https://github.com/AiswaryaGangadharan)** — End-to-end churn analytics
-`Python` · `Pandas` · `Scikit-learn` · `Streamlit` · `SQL`
-Analyzed Telco, Bank, and E-Commerce datasets with Logistic Regression, Random Forest, and K-Means clustering; shipped as an interactive Streamlit dashboard.
-
-**🔹 [Credit Card Fraud Detection](https://github.com/AiswaryaGangadharan)** — Imbalanced classification
-`Python` · `Pandas` · `Scikit-learn` · `SMOTE` · `GridSearchCV`
-Built and compared six classification models, using SMOTE and GridSearchCV, evaluated on precision, recall, and F1.
+LinkLine — Real-Time Chat Application | Node.js, WebSockets, JavaScript
+• Built a real-time encrypted chat platform using WebSockets for secure, low-latency messaging.
+• Owned the complete SDLC — design, development, testing, and deployment.
 
 **🔹 [GNN for Stock Market Forecasting](https://github.com/AiswaryaGangadharan)** — Graph-based time-series modeling
 `Python` · `PyTorch` · `DGL` · `LSTM/Transformer`
